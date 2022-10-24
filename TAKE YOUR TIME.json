@@ -1,0 +1,18 @@
+{
+    "manifest": {
+        "author": "C10H16#7479",
+        "name": "TAKE YOUR TIME ",
+        "version": "1.0.0",
+        "updater":  ""
+    },
+  "background": {
+    "url": "https://cdn.discordapp.com/attachments/741178177774157907/1033517521682313317/Red.gif",
+    "overlay_alpha": "255",
+    "blur_radius":  "0"
+
+  },
+    "fonts": {},
+    "simple_colors": {},
+    "colors": {},
+    "drawable_tints": {}
+  }
